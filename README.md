@@ -1,9 +1,12 @@
 
 # News Research Chatbot 
 
-News Research Chatbot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-![](rockybot.jpg)
+News Research Chatbot is an intuitive and user-friendly tool crafted for seamless information retrieval in the ever-dynamic landscape of news and finance. Its design revolves around the user's ease, allowing them to input article URLs effortlessly. This feature empowers users to delve into the vast realms of stock market and financial information, extracting relevant insights with just a few clicks. Whether users seek to stay informed about market trends, analyze financial news, or track specific stocks, the Chatbot streamlines the process by providing swift and tailored responses to user queries.
+
+The Chatbot's versatility extends beyond URL input, as users can pose questions directly. This interactive feature enhances the user experience, allowing for a dynamic exchange of information. By combining the power of advanced language models and efficient processing techniques, the Chatbot transforms the often intricate task of news research into a user-friendly and accessible experience. Whether navigating complex financial reports or staying updated on market developments, users can rely on the Chatbot as their go-to tool for obtaining pertinent insights in a timely and effortless manner.
+
+![](chatbot.jpg)
 
 ## Features
 
