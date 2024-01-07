@@ -9,7 +9,12 @@ The Chatbot's versatility extends beyond URL input, as users can pose questions 
 ![](chatbot.jpeg)
 
 # Getting Started
-
+  1. Clone the repository:
+    https://github.com/devananthans/chatbot.git
+  2. Navigate to the project directory:
+    cd chatbot
+  3. Install the dependencies:
+     pip install -r requirements.txt
 
 ## Features
 
@@ -23,7 +28,7 @@ The Chatbot's versatility extends beyond URL input, as users can pose questions 
 ## Usage/Examples
 
 1. Run the Streamlit app by executing:
-```bash
+
 streamlit run main.py
 
 ```
