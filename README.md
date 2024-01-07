@@ -6,7 +6,10 @@ News Research Chatbot is an intuitive and user-friendly tool crafted for seamles
 
 The Chatbot's versatility extends beyond URL input, as users can pose questions directly. This interactive feature enhances the user experience, allowing for a dynamic exchange of information. By combining the power of advanced language models and efficient processing techniques, the Chatbot transforms the often intricate task of news research into a user-friendly and accessible experience. Whether navigating complex financial reports or staying updated on market developments, users can rely on the Chatbot as their go-to tool for obtaining pertinent insights in a timely and effortless manner.
 
-![](chatbot.jpg)
+![](chatbot.jpeg)
+
+# Getting Started
+
 
 ## Features
 
